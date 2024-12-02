@@ -1,4 +1,12 @@
 {
   "name": "radarify",
-  "displayName": "radarify"
+  "displayName": "radarify",
+  "expo": {
+    "owner": "nissimz",
+    "extra": {
+      "eas": {
+        "projectId": "e690d597-f866-464d-89ee-146dd9ad9301"
+      }
+    }
+  }
 }
